@@ -1,0 +1,12 @@
+name = "Sunnytype"
+license = ""
+licenselink = ""
+description = ""
+homepage = ""
+tags = []
+features = []
+min_version = "0.1"
+
+[author]
+  name = "sunnytype"
+  homepage = "https://sunnytype.com"

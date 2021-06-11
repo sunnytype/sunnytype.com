@@ -1,0 +1,47 @@
+baseURL = "https://blog.sunnymix.com/"
+languageCode = "zh-CN"
+title = "sunnytype"
+theme = "sunnytype"
+copyright = "sunnytype.com"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags"
+    weight = 3 
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 5
+
+[params]
+  favicon = "icons/icon.png"
+  enableInlineShortcodes = true
+  pygmentsCodeFences = true
+  pygmentsUseClasses = true
+  copyright = "2021 sunnytype"
+  highlight = true
+
+[permalinks]
+  posts = "/:title/"
+
+
