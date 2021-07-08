@@ -1,8 +1,7 @@
-baseURL = "https://blog.sunnymix.com/"
+baseURL = "https://sunnytype.com"
 languageCode = "zh-CN"
-title = "sunnytype"
+title = "SUNNY"
 theme = "sunnytype"
-copyright = "sunnytype.com"
 
 [taxonomies]
   tag = "tags"
@@ -34,11 +33,11 @@ copyright = "sunnytype.com"
     weight = 5
 
 [params]
-  favicon = "icons/icon.png"
+  favicon = "favicon.png"
   enableInlineShortcodes = true
   pygmentsCodeFences = true
   pygmentsUseClasses = true
-  copyright = "2021 sunnytype"
+  copyright = "2021 SUNNY 赣ICP备20006923号-4"
   highlight = true
 
 [permalinks]

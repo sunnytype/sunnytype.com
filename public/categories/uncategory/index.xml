@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uncategory on SUNNY</title>
+    <link>https://sunnytype.com/categories/uncategory/</link>
+    <description>Recent content in uncategory on SUNNY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 11 Jun 2021 12:14:37 +0800</lastBuildDate>
+    
+	<atom:link href="https://sunnytype.com/categories/uncategory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>New Start</title>
+      <link>https://sunnytype.com/new-start/</link>
+      <pubDate>Fri, 11 Jun 2021 12:14:37 +0800</pubDate>
+      
+      <guid>https://sunnytype.com/new-start/</guid>
+      <description>重新开始我的博客。
+2021.6.11</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
